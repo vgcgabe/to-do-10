@@ -6,7 +6,7 @@ const SideMenu = () => {
   return (
     <div className='sideMenu'>
         <nav className='navBar'>
-          <Link to='' className='link'>Cadastro</Link>
+          <Link to='/form1' className='link'>Cadastro</Link>
           <Link to='' className='link'>Clientes</Link>
         </nav>
     </div>
