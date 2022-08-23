@@ -1,7 +1,11 @@
 header {
     height: 50px;
     background: cornflowerblue;
-    color: antiquewhite;
+    color: black;
+    font-family: var(--DynaPuff);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 24px;
 
     display: flex;
     flex-direction: row;

@@ -1,0 +1,8 @@
+.butaozin {
+    background: aqua;
+    width: 25%;
+    height: 30px;
+
+    font-family: var(--DynaPuff);
+    font-size: 20px;
+}
