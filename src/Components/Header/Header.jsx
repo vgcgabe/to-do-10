@@ -1,10 +1,11 @@
 import React from 'react'
+import S from './Header.modules.css'
 
 const Header = () => {
   return (
-    <div>
-        <h1>header daora</h1>
-    </div>
+    <header className='headerDaora'>
+        <h1 className='logo'>Forms</h1>
+    </header>
   )
 }
 

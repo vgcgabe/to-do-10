@@ -1,0 +1,25 @@
+.sideMenu {
+    height: 100%;
+    width: 10%;
+    background: tomato;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+}
+
+.navBar {
+    height: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: -100px;
+}
+
+.link {
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: white;
+}

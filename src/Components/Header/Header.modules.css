@@ -1,0 +1,10 @@
+header {
+    height: 50px;
+    background: cornflowerblue;
+    color: antiquewhite;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
