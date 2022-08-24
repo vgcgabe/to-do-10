@@ -1,7 +1,7 @@
 .entrada {
     width: 50%;
     height: 10%;
-    background: #f23f66;
+    background: var(--secondary);
     display: flex;
     flex-direction: column;
 

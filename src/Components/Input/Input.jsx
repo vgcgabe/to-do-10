@@ -5,7 +5,7 @@ const Input = (props) => {
   return (
     <fieldset className='entrada'>
       <label>{props.titulo}</label>
-      <input type={props.tipo} />
+      <input type={props.tipo} onChange={props.handleChange} />
     </fieldset> 
   )
 }

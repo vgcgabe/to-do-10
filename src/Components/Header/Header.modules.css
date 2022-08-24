@@ -1,7 +1,7 @@
 header {
-    height: 50px;
-    background: cornflowerblue;
-    color: black;
+    height: 63px;
+    background: var(--terciary);
+    color: var(--white);
     font-family: var(--DynaPuff);
     font-style: italic;
     font-weight: bold;

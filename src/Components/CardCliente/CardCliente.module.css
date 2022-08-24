@@ -1,0 +1,27 @@
+.lista {
+    height: auto;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+
+    padding: 25px;
+    margin: 20px;
+    /* overflow-y: auto; */
+
+    font-family: var(--DynaPuff);
+    background: var(--secondary);
+
+    list-style: none;
+}
+
+li {
+    font-weight: 100;
+    color: var(--grey);
+}
+
+.name {
+    font-size: 24px;
+    color: var(--terciary);
+}

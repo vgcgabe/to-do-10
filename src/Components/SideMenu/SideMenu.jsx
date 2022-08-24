@@ -7,7 +7,7 @@ const SideMenu = () => {
     <div className='sideMenu'>
         <nav className='navBar'>
           <Link to='/form1' className='link'>Cadastro</Link>
-          <Link to='' className='link'>Clientes</Link>
+          <Link to='/clientes' className='link'>Clientes</Link>
         </nav>
     </div>
   )

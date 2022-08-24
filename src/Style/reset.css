@@ -9,4 +9,14 @@
 
 :root {
     background: antiquewhite;
+
+    --primary: #004B8D;
+	--secondary:#79BDE8;
+	--terciary: #003468;
+	--green: #54B948;
+
+	--black: #000000;
+	--white: #F2F2F2;
+	--grey: #666666;
+	--textcolor: #004B8D;
 }
